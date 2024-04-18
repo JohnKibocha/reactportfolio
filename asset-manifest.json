@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.e371c6bc.css",
+    "main.js": "/reactportfolio/static/js/main.9a46ba33.js",
+    "static/media/essay.png": "/reactportfolio/static/media/essay.785a83168f0f5abd1b24.png",
+    "static/media/ai.png": "/reactportfolio/static/media/ai.4e1b000f253c77072e75.png",
+    "static/media/gender.png": "/reactportfolio/static/media/gender.4041595a4f97977a3e8b.png",
+    "static/media/herb.png": "/reactportfolio/static/media/herb.49cc8dc9a33dbee4bef3.png",
+    "static/media/py.png": "/reactportfolio/static/media/py.d8b377f05522bf35de36.png",
+    "static/media/bootstrap.png": "/reactportfolio/static/media/bootstrap.cb0fcc269e8250f3551b.png",
+    "static/media/dekut.png": "/reactportfolio/static/media/dekut.5d840a117316fe471016.png",
+    "static/media/php.png": "/reactportfolio/static/media/php.b59deec830f215d303b4.png",
+    "static/media/hotel.png": "/reactportfolio/static/media/hotel.eec186ec60a5ff7018a1.png",
+    "static/media/net.png": "/reactportfolio/static/media/net.567e6e31a1f09a481b25.png",
+    "static/media/logo.png": "/reactportfolio/static/media/logo.b68ca75808e7986c96b5.png",
+    "static/media/ibm.png": "/reactportfolio/static/media/ibm.9432f762f47cc639db3d.png",
+    "static/media/react.png": "/reactportfolio/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/js.png": "/reactportfolio/static/media/js.1707d09a3f6f31bb97e8.png",
+    "static/media/c.png": "/reactportfolio/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/django.png": "/reactportfolio/static/media/django.4c399895f677cd3bfbc8.png",
+    "static/media/HTML.png": "/reactportfolio/static/media/HTML.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/reactportfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/thankyou.png": "/reactportfolio/static/media/thankyou.8dcb6b2781a82661a0ad.png",
+    "static/media/pic1.jpeg": "/reactportfolio/static/media/pic1.9d08839b376b863c5767.jpeg",
+    "static/media/cisco.jpg": "/reactportfolio/static/media/cisco.22d3e7bddd2f515d28d7.jpg",
+    "static/media/java.png": "/reactportfolio/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/reactportfolio/index.html",
+    "main.e371c6bc.css.map": "/reactportfolio/static/css/main.e371c6bc.css.map",
+    "main.9a46ba33.js.map": "/reactportfolio/static/js/main.9a46ba33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e371c6bc.css",
+    "static/js/main.9a46ba33.js"
+  ]
+}
