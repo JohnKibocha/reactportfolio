@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactportfolio/static/css/main.e371c6bc.css",
-    "main.js": "/reactportfolio/static/js/main.27183f54.js",
+    "main.js": "/reactportfolio/static/js/main.c6fae153.js",
     "static/media/essay.png": "/reactportfolio/static/media/essay.785a83168f0f5abd1b24.png",
     "static/media/ai.png": "/reactportfolio/static/media/ai.4e1b000f253c77072e75.png",
     "static/media/gender.png": "/reactportfolio/static/media/gender.4041595a4f97977a3e8b.png",
@@ -26,10 +26,10 @@
     "static/media/java.png": "/reactportfolio/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/reactportfolio/index.html",
     "main.e371c6bc.css.map": "/reactportfolio/static/css/main.e371c6bc.css.map",
-    "main.27183f54.js.map": "/reactportfolio/static/js/main.27183f54.js.map"
+    "main.c6fae153.js.map": "/reactportfolio/static/js/main.c6fae153.js.map"
   },
   "entrypoints": [
     "static/css/main.e371c6bc.css",
-    "static/js/main.27183f54.js"
+    "static/js/main.c6fae153.js"
   ]
 }
